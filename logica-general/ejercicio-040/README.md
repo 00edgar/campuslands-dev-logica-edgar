@@ -3,20 +3,7 @@
 ## Dificultad
 
 Basico con analisis
-
-## Tematica usada
-
-comida urbana
-
-## Contexto del problema
-
-Estas trabajando como estudiante de Campuslands en un reto de comida urbana. El objetivo no es memorizar codigo, sino analizar una situacion, convertirla en reglas claras y construir una solucion ordenada.
-
-En este ejercicio debes resolver un caso de estrategias de seleccion. La dificultad sube de forma gradual: aqui se espera combinar varias condiciones y revisar casos especiales.
-
-## Objetivo
-
-Crear una solucion que reciba datos, aplique reglas y entregue un resultado verificable. La solucion puede hacerse en JavaScript, Python, pseudocodigo o Markdown tecnico, segun indique el instructor.
+ 
 
 ## Que vas a practicar
 
